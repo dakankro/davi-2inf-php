@@ -2,11 +2,11 @@
     include "./assets/includes/doctype.php";
 ?>
 
-<link rel="stylesheet" href="./assets/style/style_header.css">
-</head>
+<title>Produtos importados</title>
 <body>
 <?php
     include "./assets/includes/header.php";
     include "./assets/includes/navigation.Menu.php";
 ?>
+
 </body>
