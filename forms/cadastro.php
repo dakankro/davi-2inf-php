@@ -1,7 +1,7 @@
 <?php
     include "../assets/includes/doctype.php";
 ?>
-
+    <link rel="stylesheet" href="../assets/style/style_header.css">
 </head>
 <body>
 <?php
