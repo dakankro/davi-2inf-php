@@ -16,10 +16,3 @@ function saudacao(): string
     }
     return $saudacao;
 }
-
-function contartime(string $data) : string
-
-{
-
-
-}
