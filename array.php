@@ -29,8 +29,7 @@
         ];
         $nomeDiaSemana = ['Domingo','Segunda-feira','Terça-feira','Quarta-feira','Quinta-feira','Sexta-feira','Sabado'];
         $dataAtual =  $nomeDiaSemana[$diaSemana] . ';'.$diaMes.' de ' . $nomeDosMeses[$mes] . '/' . $ano . '.';
-
+        echo 'Dia do mes '.$diaMes.'<br>'.'Dia da  '.$diaSemana.'<br>'.'Ano'.$ano.'<br>';
         return $dataAtual;
     }
     echo dataAtual();
-
